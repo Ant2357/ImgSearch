@@ -37,6 +37,7 @@ executables:
     - ImgSearch
     - http-conduit
     - bytestring
+    - directory 
     - scalpel
 
 tests:
